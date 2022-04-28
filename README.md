@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @andrelassalvia
+- 👀 I’m interested in PHP (Laravel), Node.Js and JavaScript (Jquery / Vue.js).
+- 🌱 I’m currently learning Laravel and Vue
